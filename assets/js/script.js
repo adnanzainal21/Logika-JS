@@ -23,10 +23,10 @@ function buttonPlayer(btnId) {
         (btnId === 'btn-gunting' && randomChoice === 'btn-kertas') ||
         (btnId === 'btn-kertas' && randomChoice === 'btn-batu')
     ) {
-        hasil.textContent = "Menang";
+        hasil.textContent = " Sampean Menang";
 
     } else {
-        hasil.textContent = "Kalah";
+        hasil.textContent = "Sampean Kalah";
     }
 }
 
