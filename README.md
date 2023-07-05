@@ -1,2 +1,2 @@
-# Logika-JS
-LAtihan logika javascrip dasar
+Lathan Logika JavaScrip 
+
